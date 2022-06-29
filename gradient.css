@@ -27,3 +27,10 @@ span {
 p {
 	background-color: green;
 }
+p {
+	column-count: 3;
+	column-gap: 10px;
+	column-rule: 1px solid #666;
+	font-size: 0.9em;
+	width: 500px;
+}
